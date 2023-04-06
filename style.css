@@ -1,0 +1,630 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Raleway&family=Roboto+Mono&display=swap');
+
+*
+{
+    margin: 0;
+    padding: 0;
+}
+body{
+        box-sizing: border-box;
+}
+.header-fashion{
+    display: flex;
+    justify-content: space-between;
+    padding: 2rem;
+    align-items: center;
+    padding-bottom: 55px;
+    position: fixed;
+    background-color: white;
+    z-index: 1;
+  
+
+}
+
+.span1 ul :nth-child(4){
+
+    font-size: 45px;
+    margin-left: 260px;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 1px;
+  
+}
+.span1 ul{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+   font-size: x-large;
+   font-family: 'Poppins', sans-serif;
+  
+}
+ul li{
+    margin-right: 10px;
+    list-style-type: none;
+}
+.span2 span{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    list-style-type: none;
+    margin-left: 200px;
+}
+
+.span2 span li{
+    margin-left: 30px;
+}
+.imageSection{
+    position: relative;
+    margin-top: 200px;
+}
+.textsection{
+    position: absolute;
+   
+}
+.imageSection img{
+    width: 1100px;
+    height: 1100px; 
+}
+.section{
+    display: flex;
+    align-items: center;
+    justify-content: center;  
+}
+.textsection{
+    bottom: 0;
+    width: 100%;
+    text-align: center; 
+   justify-content: center;
+    padding-bottom: 400px; 
+    color: white;
+    font-weight: 1000;
+     font-size: 60px;
+}
+.textsection button{
+   position: absolute;
+   bottom: 0;
+   right: 0px;
+  padding: 20px;
+  margin-right: 250px;
+  margin-bottom: 80px;
+  border: 3px solid black;
+}
+.textsection p {
+    margin-right: 280px;
+}
+h2{
+   padding: 100px;
+   margin-left:100px;
+   padding-bottom: 30px;
+   text-align: center;
+   font-size: 30px;
+}
+.secondary{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin: 20px ;
+   
+   
+}
+.secondary p{
+    font-family: 'Poppins', sans-serif;   
+}
+.btn1{
+    margin-left: 700px;
+    margin-top: 30px;
+    background-color: black;
+    height: 50px;
+    width: 150px;
+    color: white;
+   font-size:large;
+   font-family: 'Poppins', sans-serif;
+   font-weight: 100;
+   letter-spacing: 2px;
+   cursor: pointer;
+}
+
+.image1{
+    margin: 10px;
+
+}
+.image2 img{
+    width: 350px;
+    height: 330px;
+    margin: 10px;
+}
+.image3 img{
+    width: 350px;
+    height: 330px;
+    margin: 10px;
+}
+.image4 img{
+    width: 350px;
+    height: 330px;
+    margin: 8px;
+}
+.primary{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.thirdimage{
+    position: relative;
+    margin-top: 50px;
+}
+.thirdtext{
+    position: absolute;
+    bottom: 0; 
+    margin: 200px;
+    font-size: 75px;
+    color: white;    
+    padding-left: 80px;
+    margin-bottom: 100px;
+}
+.thirdtext button{
+    width: 150px;
+    height: 70px;
+    font-size: large;
+    font-weight: 100;
+}
+h3{
+    padding: 100px;
+   margin-left:100px;
+   padding-bottom: 30px;
+   text-align: center;
+   font-size: 30px;
+}
+.nursery{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    margin: 20px ;
+}
+.image1{
+    margin: 10px;
+
+}
+.nursery2 img{
+    width: 350px;
+    height: 330px;
+    margin: 10px;
+}
+.nursery3 img{
+    width: 350px;
+    height: 330px;
+    margin: 10px;
+}
+.nursery4 img{
+    width: 350px;
+    height: 330px;
+    margin: 8px;
+}
+.nursery p{
+    font-family: 'Poppins', sans-serif;
+}
+.btn2{
+    margin-left: 700px;
+    margin-top: 30px;
+    background-color: black;
+    height: 50px;
+    width: 150px;
+    color: white;
+   font-size:large;
+   font-family: 'Poppins', sans-serif;
+   font-weight: 100;
+   letter-spacing: 2px;
+   cursor: pointer;
+}
+h4{
+    padding: 100px;
+   margin-left:100px;
+   padding-bottom: 30px;
+   text-align: center;
+   font-size: 30px;
+}
+.kindagarteenimage2 img{
+    width: 350px;
+    height: 330px;
+    margin: 8px;
+}
+.kindagarteen{
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: space-around;
+    margin: 20px ;
+
+}
+
+.kindagarteen img{
+   width: 600px;
+}
+.kindagarteenimage1{
+    position: relative;
+}
+.kindagarteentext1{
+    position: absolute;
+}
+.kindagarteenimage{
+    position: relative;
+}
+.kindagarteentext{
+    position: absolute;
+}
+.kindagarteentext{
+    bottom: 0;
+    margin-bottom: 100px;
+    margin-left: 100px;
+}
+.kindagarteentext1{
+    bottom: 0;
+    margin-bottom: 100px;
+    margin-left: 100px;
+}
+.kindagarteentext{
+    font-size: 40px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+
+}
+.kindagarteentext1{
+    font-size: 40px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+   
+}
+.kindagarteenimage button{
+    width: 150px;
+    height: 50px;
+    border: 2px solid black;
+}
+.kindagarteenimage1 button{
+    width: 150px;
+    height: 50px ;
+    border: 2px solid black;
+}
+h5{
+    padding: 100px;
+   margin-left:100px;
+   padding-bottom: 30px;
+   text-align: center;
+   font-size: 30px;
+   letter-spacing: 3px;
+}
+.lorem p{
+    
+    margin-left:100px;
+    padding-bottom: 30px;
+    text-align: center;
+    font-size: 20px;
+   
+ }
+
+.inputbutton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.inputbutton input{
+    margin: 10px;
+    height: 50px;
+    width: 300px;
+    cursor: pointer;
+}
+.inputbutton button{
+    height: 50px ;
+    width: 150px ;
+    color: white;
+    background-color: black;
+    cursor: pointer;
+}
+.inputbutton ::placeholder{
+    padding: 10px;
+
+}
+.bottom {
+    background-color: black;
+    height: 200px;
+    width: 100%;
+    margin-top: 30px;
+    display:flex;
+    justify-content: space-between;
+    align-items: center;
+    color: white;
+    padding: 20px;
+ 
+  
+}
+h6{
+    margin-bottom: 250px;
+    font-size: 40px;
+    font-family: 'Poppins', sans-serif;
+    letter-spacing: 3px;
+    font-size: 30px;
+
+}
+.ul-1 ul{
+    list-style: none;
+    margin-bottom: 250px;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Poppins', sans-serif;
+
+}
+.ul-2 ul{
+    margin-bottom: 250px;
+   font-family: 'Poppins', sans-serif;
+    font-size: larger;
+}
+.ul-1 li{
+    margin-bottom: 0.5rem;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (max-width:768px){
+
+    .header-fashion{
+       
+    
+        display: flex;
+        justify-content: space-between;
+        padding: 20;
+        align-items: center;
+        padding-bottom: 0;
+        position: fixed;
+        z-index: 1;
+        background-color: white;
+       
+      
+    }
+
+    .span2 {
+        margin-left: 0;
+        margin: 0;
+        
+    }
+
+    .span2 span li{
+        font-size: 7px;
+        margin-left: 5.5px;
+       
+    }
+    .span2 span{
+        margin: 0;
+        margin-left: 0;
+        margin-left: 0;
+      
+    }
+    .span1 ul li{
+        font-size:9px;
+        margin: 3;
+    }
+    .span1 ul :nth-child(4){
+
+        font-size: 19px;
+        margin-left: 5px;
+        font-family: 'Poppins', sans-serif;
+        letter-spacing: 0px;    
+     }
+     .span1 ul li :nth-child(3){
+
+        margin-right: 10px;
+     }
+     .span1 ul{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+       font-size: small;
+       font-family: 'Poppins', sans-serif;
+    }
+        .imageSection img{
+            background: url(./images/image.jpg);
+            width: 400px;
+            height: 400px;
+            position: relative;
+            margin-bottom:40px ;
+            margin-top: 120px;
+        }
+
+        .imageSection{
+            margin-top:auto;
+
+            height: 500px;
+            background-color: white;
+        }
+            .textsection{
+            bottom: 0;
+            margin-top: 120px;
+
+            top: 0;
+            text-align: center; 
+            justify-content: center;
+            color: white;
+            font-weight: bold;
+            font-size: 60px;
+    
+        }
+        .textsection p{
+            margin-top: 50px;
+            font-size: 40px;
+            font-weight: 30px;
+        }
+
+        .secondary{
+
+        display: contents;
+
+        }
+
+       .textsection p{
+        font-size: 20px;
+        margin-left: 20px;
+        top: 90px;
+       
+    
+       }
+       .imageSection button{
+       bottom: 20px;
+
+       }
+
+
+       h2 {
+        padding: 0px;
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        font-size: 30px;
+        margin-right: 90px;
+        margin-top: 50px;
+        margin-bottom: 40px;
+       
+       }
+
+
+    .thirdimage{
+      background: url(./images/new\ background.jpg);
+       }
+       .thirdimage img{
+        width: 400px;
+       }
+
+       .thirdimage p{
+       font-size: 30px;
+      
+       color: white;  
+       margin-left: 30px;
+       padding-right: 40px;
+    
+       }
+       .thirdtext{
+        position: absolute;
+        bottom: 0; 
+        margin: 0px;
+        color: white;    
+        padding-left: 80px;
+        margin-bottom: 0px;
+        }
+
+       .thirdtext button{
+        width: 120px;
+        height: 50px;
+        font-size: 15px;
+        font-weight: 50;
+        margin-bottom: 20px;
+}
+
+       h3 {
+        padding: 0;
+    
+        margin-right: 90px;
+        margin-top: 10px;
+        margin-bottom: 30px;
+        
+       }
+       .nursery{
+        display: contents;
+       }
+       .btn2{
+            margin-left: 120px;
+            margin-top: 40px;
+            background-color: black;
+            height: 50px;
+            width: 150px;
+            color: white;
+           font-size:large;
+           font-family: 'Poppins', sans-serif;
+           font-weight: 100;
+           letter-spacing: 2px;
+           margin-bottom: 70px;
+       }
+
+       h4{
+        padding: 0px;
+        margin-right:120px;
+        margin-bottom: 40px ;
+        text-align: center;
+        font-size: 30px;
+       }
+
+       .kindagarteen{
+        display: flex;
+        width: 100%;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 0px;
+       }
+       .kindagarteen img{
+        width: 400px;
+        
+       }
+
+       h5{
+         padding: 0px;
+           margin-right:120px;
+           padding-bottom: 30px;
+           text-align: center;
+           font-size: 30px;
+           letter-spacing: 3px;
+
+       }
+       .lorem p{
+    
+        margin-left:10px;
+        padding-bottom: 30px;
+        }
+
+        .inputbutton{
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            cursor: pointer;
+        }
+        h6{
+            font-size: 20px;
+            margin-top: 200px;
+        }
+        .ul-1{
+            font-size: 15px;
+            margin-right: 40px;
+            margin-top: 200px;
+            
+        }
+        .ul-2{
+            font-size: 12px;
+            margin-top: 200px;
+            
+        }
+       .bottom{
+        padding: 5px;
+        height: 300px;
+        
+
+
+       }
+       .inputbutton input{
+        margin: 10px;
+        height: 50px;
+        width: 200px;
+        cursor: pointer;
+    }
+       
+}
