@@ -440,6 +440,7 @@ h6{
             position: relative;
             margin-bottom:40px ;
             margin-top: 120px;
+            border-radius: 10px;
         }
 
         .imageSection{
@@ -469,7 +470,11 @@ h6{
         .secondary{
 
         display: contents;
+    
 
+        }
+        .secondary img{
+            border-radius: 10px;
         }
 
        .textsection p{
@@ -503,6 +508,7 @@ h6{
        }
        .thirdimage img{
         width: 400px;
+        border-radius: 10px;
        }
 
        .thirdimage p{
@@ -541,6 +547,9 @@ h6{
        .nursery{
         display: contents;
        }
+       .nursery img{
+        border-radius: 5px;
+       }
        .btn2{
             margin-left: 120px;
             margin-top: 40px;
@@ -573,6 +582,8 @@ h6{
        }
        .kindagarteen img{
         width: 400px;
+        border-radius: 25% 10%;
+        margin: 7px;
         
        }
 
